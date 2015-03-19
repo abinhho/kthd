@@ -1,0 +1,27 @@
+.area_link_lists{border:1px solid #ccc;width:98%;height:200px;display:block;}
+
+.mod_backlink .show_items{margin:0;padding:0}
+
+.mod_backlink .show_items li a.title{margin-bottom:0px;font-size:17px;}
+.mod_backlink .show_items li a.title.closed{color:#D45500}
+.mod_backlink .show_items li{position:relative;display:block;margin:0;padding:10px 0;border-bottom:1px solid #eaeaea;min-height:50px;}
+.mod_backlink .show_items li .bg_f2{background:#eee;padding:5px;}
+.mod_backlink .show_items li .col.ans{color:#9A4444;}
+.mod_backlink .show_items li .col.view{}
+.mod_backlink .show_items li .col.ans.has_ans{color:#fff;background:#75845C}
+.mod_backlink .show_items li .desc p.text_desc{color:#000;margin:0 0 2px;font-size:13px;}
+.mod_backlink .show_items li a.domain{color:#bb0000;background:#f2f2f2;padding:0 3px;border-radius:2px;}
+.mod_backlink .show_items li .desc{font-size:12px;margin-top:0px;color:#666;}
+.mod_backlink .show_items li .desc span{color:gray;}
+.mod_backlink .show_items li .desc a,.mod_backlink .show_items li .desc span{margin:0 5px;}
+
+.mod_backlink .show_items li .full_user_info{float:right;margin-top:15px;padding:0}
+.mod_backlink .show_items li .sprites.exactly{position:absolute;right:10px;bottom:7px;}
+.mod_backlink .show_items li:last-child{border:none;}
+.mod_backlink .tags_inline{padding:0;margin-top:10px;}
+.mod_backlink .tags_block{margin:10px 0;}
+.mod_backlink .tags_block .count{font-size:12px;color:#999;}
+.mod_backlink .tags_block .each_tag{clear:both;}
+.mod_backlink .tags_block div.li{margin-bottom:5px;}
+
+.mod_backlink .show_items .info_news{margin:0;}

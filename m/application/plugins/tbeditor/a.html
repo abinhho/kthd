@@ -1,0 +1,28 @@
+var sel= Editor.getSelection();
+	var range= sel.getRangeAt(0);
+	var html= range.toString(); //getSelectionHtml();
+	
+	if(get_length_selection()>0)
+	{
+		
+		//range.deleteContents();
+		//alert(html);
+		if(!remove_tag_st_en(st,en,"CODE")){
+			highlight({st:st,en:st});
+			//range.collapse(true);
+			insertTextAtCursor("[blockquote]");
+			highlight({st:en+6,en:en+6});
+			//range1.collapse(false);
+			insertTextAtCursor("[/blockquote]");
+			//var span = Editor.createElement('code');
+			replace2tag("blockquote");
+			//wrap2tag('hr.start_','hr.end_','<blockquote>');
+		}
+		//range.surroundContents(span);
+		highlight({st:bookmark['start'],en:bookmark['end']});
+	}
+	else if(getCurrent_node()=="CODE")
+	{ 	
+		set_cur_after_curr_node();
+	}
+	//pasteHtmlAtCaret("<hr class='start_'/>");

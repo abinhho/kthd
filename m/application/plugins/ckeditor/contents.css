@@ -1,0 +1,11 @@
+body{margin:0;padding:10px;font-size:14px;background:#fff;color:#000;line-height:1.4;font-family: Arial,sans-serif }
+p,h1,h2,ul,ol{margin:0px 0;padding:0px 0;}p{margin-bottom:10px;} p:last-child{margin-bottom:0;}
+li{margin:0 0 0 35px;}
+blockquote, pre{background:#eee;padding:5px 10px;margin:10px 0;overflow:auto;}
+code,pre{font-size:14px;font-family:Arial;background:#eee;border-left:2px solid #ccc;font-family:Consolas,Menlo,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New,monospace,serif;}
+u strong, strong u {color:#2B91AF;text-decoration:none !important;}
+em u,u em {background:#eee;padding:00 3px;margin:0 2px;text-decoration:none !important;font-style:normal;}
+li{margin-bottom:5px;}
+table{font-size:14px;border-collapse:collapse;width:100%;}
+table td{border-collapse:collapse;border:1px solid #eaeaea;padding:4px;}
+table tr:nth-child(even) td{background:#f2f2f2;}

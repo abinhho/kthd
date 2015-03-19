@@ -1,0 +1,34 @@
+.mod_albums p{margin:0;}
+.mod_albums.show_albums_item ul{margin:0;padding:0}
+.mod_albums .title{font-size:22px;border-radius:0; font-weight:normal;}
+.mod_albums .title p{margin:0}
+
+.mod_albums.show_albums_item ul{line-height:1.5;margin-left: -25px;}
+.mod_albums.show_albums_item img.main{padding:2px;background:#fff;font-weight:normal;margin-right:10px;}
+.mod_albums.show_albums_item .large_img_shadow{}
+
+.mod_albums.show_albums_item .right{}
+.mod_albums.show_albums_item .view_more{font-size:12px;padding-left:10px;background:url('../images/bg/imgArrowBullet.gif') no-repeat 0 center;
+font-weight:normal;color:#D45500;display:block;margin-top:5px}
+.mod_albums.show_albums_item.no_image .right{margin-left:0;}
+.mod_albums.show_albums_item li a{color:#444;margin-bottom:5px;font-size:14px;}
+.mod_albums.show_albums_item li .gray{font-size:13px;margin-left:8px;}
+.mod_albums.show_albums_item li{display:block;padding:10px 0px;border-bottom:1px solid #dcdcdc;border-top:1px solid #fff;display:block;float:left;width:200px;margin-left: 25px;height:325px;}
+.mod_albums.show_albums_item li .date{font-size:11px;color:#888}
+.mod_albums.show_albums_item li .nd{margin-top:0px;display:block;color:#888;font-size: 13px;}
+.mod_albums .contents_bg{padding:0 5px;}
+.mod_albums .contents_bg.padding{padding:10px;}
+.mod_albums.show_albums_item li:last-child{border:none;}
+.mod_albums.show_albums_item .info_news{margin:0;}
+
+.view_albums .small_images{margin:15px 0;padding:0;border-bottom:2px solid #f2f2f2}
+.view_albums .small_images li{float:left;display:block;margin:0 5px 5px 0;padding:0;border:2px solid transparent;line-height:0;padding:2px;}
+.view_albums .small_images li.activeSlide{border-color: #ccc;}
+
+
+.mod_albums.block_newest_albums ul{margin:0;padding:0;}
+.mod_albums.block_newest_albums li{display:block;margin:0 5px 5px 0px;box-shadow:0 1px 2px #666666;border:5px solid #fff;float:left;}
+.mod_albums.block_newest_albums img{float:left;}
+
+.mod_albums.in_home ul{margin: 0; padding: 0;line-height:0}
+.mod_albums.in_home li{display:block;float: left;margin:0 5px 5px 0}

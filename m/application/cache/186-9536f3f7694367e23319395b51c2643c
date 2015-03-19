@@ -1,0 +1,136 @@
+a:34:{s:2:"ID";s:3:"186";s:3:"GID";s:0:"";s:5:"catid";s:2:"66";s:7:"tags_id";s:10:"13,201,289";s:5:"alias";N;s:7:"tieu_de";s:38:"Công thức và hàm excel cơ bản?";s:7:"user_id";s:3:"102";s:7:"exactly";s:1:"1";s:9:"user_edit";N;s:6:"images";s:0:"";s:8:"noi_dung";s:318:"<p>Em đang học excel m&agrave; thấy kh&oacute; qu&aacute;, t&agrave;i liệu th&igrave; 1 cuốn s&aacute;ch d&agrave;y qu&aacute;, em kh&ocirc;ng hiểu được nhi&ecirc;u cả, c&oacute; c&aacute;ch n&agrave;o tổng hợp c&aacute;c c&ocirc;ng thức sao cho dể hiểu kh&ocirc;ng c&aacute;c anh chị?</p>";s:9:"date_edit";s:19:"2014-02-25 11:34:38";s:8:"date_add";s:19:"2014-02-25 11:34:38";s:8:"date_upd";s:19:"2015-02-27 23:22:53";s:11:"description";s:213:"Em đang học excel mà thấy khó quá, tài liệu thì 1 cuốn sách dày quá, em không hiểu được nhiêu cả, có cách nào tổng hợp các công thức sao cho dể hiểu không các anh chị?";s:8:"keywords";s:0:"";s:15:"user_votes_down";s:0:"";s:10:"user_votes";s:10:"102,1,49,2";s:6:"closed";s:1:"0";s:9:"n_answers";s:1:"3";s:7:"n_votes";s:1:"4";s:6:"active";N;s:12:"viewed_times";s:3:"541";s:7:"user_ID";s:3:"102";s:14:"user_full_name";s:16:"Giấc Mơ Trưa";s:10:"user_score";s:1:"9";s:11:"user_images";s:0:"";s:16:"user_n_questions";s:1:"1";s:14:"user_n_answers";s:1:"0";s:10:"user_level";s:0:"";s:8:"comments";a:2:{i:0;a:16:{s:2:"ID";s:3:"146";s:4:"type";s:8:"question";s:3:"FID";s:3:"186";s:7:"user_id";s:1:"1";s:8:"noi_dung";s:79:"Bạn vừa học vừa thực hành thì mới nhớ và hiểu sâu được.";s:8:"date_upd";s:19:"2014-02-25 19:26:37";s:6:"active";N;s:7:"n_votes";s:1:"0";s:10:"user_votes";N;s:7:"user_ID";s:1:"1";s:14:"user_full_name";s:17:"Nhà Thông Thái";s:10:"user_score";s:2:"40";s:11:"user_images";s:40:"393410655098269571-avatar31221021gif.jpg";s:16:"user_n_questions";s:1:"0";s:14:"user_n_answers";s:2:"47";s:10:"user_level";s:1:"2";}i:1;a:16:{s:2:"ID";s:3:"161";s:4:"type";s:8:"question";s:3:"FID";s:3:"186";s:7:"user_id";s:2:"56";s:8:"noi_dung";s:36:"Nhìn đã hoa cả mắt rồi, hic";s:8:"date_upd";s:19:"2014-02-26 20:18:01";s:6:"active";N;s:7:"n_votes";s:1:"0";s:10:"user_votes";N;s:7:"user_ID";s:2:"56";s:14:"user_full_name";s:6:"Cuc Vu";s:10:"user_score";s:2:"35";s:11:"user_images";s:35:"1392522560-17181609291619520218.jpg";s:16:"user_n_questions";s:2:"63";s:14:"user_n_answers";s:2:"72";s:10:"user_level";s:1:"2";}}s:7:"answers";a:3:{i:0;a:21:{s:2:"ID";s:3:"216";s:3:"FID";s:3:"186";s:7:"user_id";s:1:"2";s:9:"user_edit";N;s:8:"noi_dung";s:212:"<p>Bạn c&oacute; thể xem th&ecirc;m tại đ&acirc;y: <a href="http://kienthuchoidap.com/questions/66/cac-ham-excel-can-ban-va-cach-su-dung-344.html">L&agrave;m quen với c&aacute;c h&agrave;m excel</a></p>
+";s:9:"date_edit";s:19:"2014-03-10 20:24:34";s:8:"date_upd";s:19:"2014-03-10 20:24:39";s:8:"date_add";s:19:"2014-03-10 20:24:34";s:6:"active";N;s:7:"exactly";s:1:"0";s:7:"n_votes";s:1:"1";s:15:"user_votes_down";s:0:"";s:10:"user_votes";s:1:"2";s:7:"user_ID";s:1:"2";s:14:"user_full_name";s:16:"Hồ Thanh Bình";s:10:"user_score";s:2:"27";s:11:"user_images";s:42:"1487272959-tuyensinh-130906-02-150x150.jpg";s:16:"user_n_questions";s:1:"3";s:14:"user_n_answers";s:2:"24";s:10:"user_level";s:1:"0";s:7:"comment";a:0:{}}i:1;a:21:{s:2:"ID";s:3:"127";s:3:"FID";s:3:"186";s:7:"user_id";s:1:"2";s:9:"user_edit";s:1:"1";s:8:"noi_dung";s:1350:"<p><strong>Đ&acirc;y l&agrave; c&aacute;c H&agrave;m L&ocirc;-gic</strong>:</p>
+
+<ul>
+	<li><strong><u>Hàm AND</u>:</strong> Trả về TRUE nếu tất cả c&aacute;c đối số l&agrave; TRUE</li>
+	<li><strong><u>Hàm FALSE</u>: </strong>Trả về gi&aacute; trị l&ocirc;-gic FALSE</li>
+	<li><strong><u>Hàm IF</u>:</strong> X&aacute;c định một phép kiểm tra l&ocirc;-gic cần thực hiện</li>
+	<li><strong><u>Hàm IFERROR</u>:</strong> Trả về một gi&aacute; trị m&agrave; bạn x&aacute;c định nếu một c&ocirc;ng thức đ&aacute;nh gi&aacute; một lỗi, nếu kh&ocirc;ng, trả về kết quả của c&ocirc;ng thức</li>
+	<li><strong><u>Hàm IFNA</u>:</strong> Trả về gi&aacute; trị m&agrave; bạn x&aacute;c định nếu biểu thức giải quyết thành #N/A, nếu kh&ocirc;ng trả về kết quả của biểu thức</li>
+	<li><strong><u>Hàm NOT</u>:</strong> Đảo ngược l&ocirc;-gic của đối số của n&oacute;</li>
+	<li><strong><u>Hàm OR</u>:</strong> Trả về TRUE nếu bất kỳ đối số n&agrave;o l&agrave; TRUE</li>
+	<li><strong><u>Hàm TRUE</u>:</strong> Trả về gi&aacute; trị l&ocirc;-gic TRUE</li>
+	<li><strong><u>H&agrave;m XOR</u>:</strong> Trả về một hàm Or l&ocirc;-gic ri&ecirc;ng của tất cả c&aacute;c đối số.</li>
+</ul>
+";s:9:"date_edit";s:19:"2014-02-26 08:33:47";s:8:"date_upd";s:19:"2014-04-19 11:47:24";s:8:"date_add";s:19:"2014-02-25 19:22:30";s:6:"active";N;s:7:"exactly";s:1:"1";s:7:"n_votes";s:1:"2";s:15:"user_votes_down";s:0:"";s:10:"user_votes";s:3:"1,2";s:7:"user_ID";s:1:"2";s:14:"user_full_name";s:16:"Hồ Thanh Bình";s:10:"user_score";s:2:"27";s:11:"user_images";s:42:"1487272959-tuyensinh-130906-02-150x150.jpg";s:16:"user_n_questions";s:1:"3";s:14:"user_n_answers";s:2:"24";s:10:"user_level";s:1:"0";s:7:"comment";a:0:{}}i:2;a:21:{s:2:"ID";s:3:"122";s:3:"FID";s:3:"186";s:7:"user_id";s:1:"1";s:9:"user_edit";s:1:"1";s:8:"noi_dung";s:8243:"<p><strong>Chia sẻ với bạn c&aacute;c h&agrave;m excel căn bản như sau:</strong></p>
+
+<p>&nbsp;</p>
+
+<p><strong>C&aacute;c h&agrave;m to&aacute;n học:</strong></p>
+
+<blockquote>
+<ol>
+	<li><strong><u>ABS</u></strong>: T&iacute;nh trị tuyệt đối của một số</li>
+	<li><strong><u>ACOS</u></strong>:T&iacute;nh nghịch đảo cosin</li>
+	<li><strong><u>ACOSH</u></strong>: T&iacute;nh nghịch đảo cosin hyperbol</li>
+	<li><strong><u>ASIN</u></strong>: T&iacute;nh nghịch đảo sin</li>
+	<li><strong><u>ASINH</u></strong>: T&iacute;nh nghịch đảo sin hyperbol</li>
+	<li><strong><u>ATAN</u></strong>: T&iacute;nh nghịch đảo tang</li>
+	<li><strong><u>ATAN2</u></strong>: T&iacute;nh nghịch đảo tang với tọa độ</li>
+	<li><strong><u>ATANH</u></strong>: T&iacute;nh nghịch đảo tang hyperbol</li>
+	<li><strong><u>CEILING</u></strong>: L&agrave; tr&ograve;n đến bội số gần nhất</li>
+	<li><strong><u>COMBIN</u></strong>: T&iacute;nh tổ hợp từ số phần tử chọn</li>
+	<li><strong><u>COS</u></strong>: T&iacute;nh cosin của một g&oacute;c</li>
+	<li><strong><u>COSH</u>: </strong>T&iacute;nh cosin hyperbol</li>
+	<li><strong><u>DEGREES</u></strong>: Đổi radians sang độ</li>
+	<li><strong><u>EVEN</u></strong>: L&agrave;m tr&ograve;n một số đến số nguy&ecirc;n chẵn gần nhất.</li>
+	<li><strong><u>EXP</u></strong>: T&iacute;nh lũy thừa cơ số e</li>
+	<li><strong><u>FACT</u></strong>: T&iacute;nh giai thừa của một số</li>
+	<li><strong><u>FACTDOUBLE</u></strong>: T&iacute;nh lũy thừa cấp 2</li>
+	<li><strong>FLOOR</strong>: L&agrave;m tr&ograve;n xuống đến bội số gần nhất do bạn chỉ.</li>
+	<li><strong>GCD</strong>: T&igrave;m ước số chung lớn nhất</li>
+	<li><strong>INT</strong>: L&agrave;m tr&ograve;n xuống số nguy&ecirc;n gần nhất</li>
+	<li><strong>LCM</strong>: T&igrave;m bội số chung nhỏ nhất</li>
+	<li><strong>LN</strong>: T&iacute;nh logarit cơ số tự nhi&ecirc;n của một số</li>
+	<li><strong>LOG</strong>: T&iacute;nh logarit</li>
+	<li><strong>LOG10</strong>: T&iacute;nh logarit cơ số 10</li>
+	<li><strong>MDETERM</strong>: T&iacute;nh định thức của ma trận</li>
+	<li><strong>MINVERSE</strong>: T&igrave;m ma trận nghịch đảo</li>
+	<li><strong>MMULT</strong>: T&iacute;nh t&iacute;ch 2 ma trận</li>
+	<li><strong>MOD</strong>: Lấy phần dư của ph&eacute;p chia</li>
+	<li><strong>MROUND</strong>: L&agrave;m tr&ograve;n một số đến bội số của số kh&aacute;c.</li>
+	<li><strong>MULTINOMIAL</strong>: Tỷ lệ giai thừa tổng với t&iacute;ch c&aacute;c giai thừa của c&aacute;c số.</li>
+	<li><strong>ODD</strong>: L&agrave;m tr&ograve;n đến một số nguy&ecirc;n lẽ gần nhất.</li>
+	<li><strong>PI</strong>: Trả về gi&aacute; trị pi</li>
+	<li><strong>POWER</strong>: T&iacute;nh lũy thừa của một số</li>
+	<li><strong>PRODUCT</strong>: T&iacute;nh t&iacute;ch c&aacute;c số</li>
+	<li><strong>QUOTIENT</strong>: Lấy phần nguy&ecirc;n của ph&eacute;p chia</li>
+	<li><strong>RADIANS</strong>: Đổi độ sang radians.</li>
+	<li><strong>RAND</strong>: Trả về một số ngẫu nhi&ecirc;n trong khoảng 0 v&agrave; 1</li>
+	<li><strong>RANDBETWEEN</strong>: Trả về một số ngẫu nhi&ecirc;n trong khoảng do bạn chỉ định</li>
+	<li><strong>ROMAN</strong>: Chuyển một số sang số La M&atilde;</li>
+	<li><strong>ROUND</strong>: L&agrave;m tr&ograve;n một số</li>
+	<li><strong>ROUNDDOWN</strong>: L&agrave;m tr&ograve;n một số hướng xuống zero</li>
+	<li><strong>ROUNDUP</strong>: L&agrave;m tr&ograve;n một số hướng ra xa zero.</li>
+	<li><strong>SERIESSUM</strong>: T&iacute;nh tổng lũy thừa ...</li>
+	<li><strong>SIGN</strong>:Trả về dấu của một số</li>
+	<li><strong>SIN</strong>: T&iacute;nh sin của một g&oacute;c</li>
+	<li><strong>SINH: </strong>T&iacute;nh sin hyperbol của một số</li>
+	<li><strong>SQRT</strong>: T&iacute;nh căn bậc 2 của một số</li>
+	<li><strong>SQRTPI</strong>: T&iacute;nh căn bậc 2 của một số nh&acirc;n với pi</li>
+	<li><strong>SUBTOTAL</strong>: T&iacute;nh tổng phụ</li>
+	<li><strong>SUM</strong>: T&iacute;nh tổng của c&aacute;c số</li>
+	<li><strong>SUMPRODUCT</strong>: T&iacute;nh tổng c&aacute;c t&iacute;ch c&aacute;c phần tử tương ứng trong c&aacute;c mảng gi&aacute; trị</li>
+	<li>SUMSQ</li>
+	<li><strong>SUMX2MY2</strong>: T&iacute;nh tổng của hiệu b&igrave;nh phương c&aacute;c phần tử tương ứng của 2 mảng gi&aacute; trị</li>
+	<li><strong>SUMX2PY2</strong>: T&iacute;nh tổng của tổng b&igrave;nh phương c&aacute;c phần tử tương ứng của 2 mảng gi&aacute; trị</li>
+	<li><strong>SUMXMY2</strong>: T&iacute;nh tổng của b&igrave;nh phương hiệu c&aacute;c phần tử tương ứng của 2 mảng gi&aacute; trị.</li>
+	<li><strong>TAN</strong>:T&iacute;nh tang của một g&oacute;c</li>
+	<li><strong>TANH</strong>: T&iacute;nh tang hyperbol của một số</li>
+</ol>
+</blockquote>
+
+<p>&nbsp;</p>
+
+<p><strong>C&aacute;c h&agrave;m thống k&ecirc;:</strong></p>
+
+<blockquote>
+<ol>
+	<li><strong>AVEDEV:&nbsp;</strong>T&iacute;nh b&igrave;nh qu&acirc;n độ ph&acirc;n cực</li>
+	<li><strong>AVERAGE:&nbsp;</strong>T&iacute;nh trung b&igrave;nh cộng c&aacute;c số.</li>
+	<li><strong>AVERAGEA:</strong>&nbsp;T&iacute;nh trung b&igrave;nh cộng c&aacute;c gi&aacute; trị</li>
+	<li><strong>COUNT:&nbsp;</strong>Đếm &ocirc; dữ liệu chứa số</li>
+	<li><strong>COUNTA:&nbsp;</strong>Đếm số &ocirc; chứa dữ liệu</li>
+	<li><strong>MAX:&nbsp;</strong>T&igrave;m số lớn nhất</li>
+	<li><strong>MAXA:&nbsp;</strong>T&igrave;m gi&aacute; trị lớn nhất</li>
+	<li><strong>MIN:&nbsp;</strong>T&igrave;m số nhỏ nhất</li>
+	<li><strong>MINA:&nbsp;</strong>T&igrave;m gi&aacute; trị nhỏ nhất</li>
+	<li><strong>RANK:&nbsp;</strong>T&igrave;m vị thứ của một số trong d&atilde;y số.</li>
+</ol>
+</blockquote>
+
+<p><strong>C&aacute;c h&agrave;m text&amp; data</strong><br />
+&nbsp;</p>
+
+<blockquote>
+<ol>
+	<li><strong>CHAR:&nbsp;</strong>Chuyển số th&agrave;nh k&yacute; tự</li>
+	<li><strong>CLEAN:&nbsp;</strong>X&oacute;a k&yacute; tự kh&ocirc;ng ph&ugrave; hợp</li>
+	<li><strong>CODE:&nbsp;</strong>Trả về m&atilde; số của k&yacute; tự đầu ti&ecirc;n</li>
+	<li><strong>CONCATENATE:&nbsp;</strong>Nối nhiều chuỗi th&agrave;nh một chuỗi</li>
+	<li><strong>DOLLAR:&nbsp;</strong>Chuyển định dạng số th&agrave;nh tiền tệ</li>
+	<li><strong>XACT:&nbsp;</strong>So s&aacute;nh hai chuỗi văn bản</li>
+	<li><strong>FIND:&nbsp;</strong>T&igrave;m kiếm một chuỗi trong chuỗi kh&aacute;c</li>
+	<li><strong>FIXED:&nbsp;</strong>Chuyển một số sang định dạng văn bản</li>
+	<li><strong>LEFT:&nbsp;</strong>Tr&iacute;ch b&ecirc;n tr&aacute;i một chuỗi</li>
+	<li><strong>LEN:&nbsp;</strong>T&iacute;nh độ d&agrave;i một chuỗi</li>
+	<li><strong>LOWER:&nbsp;</strong>Chuyển th&agrave;nh chữ thường.</li>
+	<li><strong>PROPER:&nbsp;</strong>Chuyển k&yacute; tự đầu mỗi từ th&agrave;nh chữ hoa</li>
+	<li><strong>MID:&nbsp;</strong>Tr&iacute;ch chuỗi con từ một chuỗi</li>
+	<li><strong>REPLACE:&nbsp;</strong>Thay thế một phần của chuỗi.</li>
+	<li><strong>RIGHT:&nbsp;</strong>Tr&iacute;ch b&ecirc;n phải một chuỗi</li>
+	<li><strong>REPT:&nbsp;</strong>Lặp lại một chuỗi</li>
+	<li><strong>SUBSTITUTE:&nbsp;</strong>Thay thế một chuỗi x&aacute;c định</li>
+	<li><strong>SEARCH:&nbsp;</strong>T&igrave;m kiếm một chuỗi</li>
+	<li><strong>TEXT:&nbsp;</strong>Chuyển một số sang text.</li>
+	<li><strong>T:&nbsp;</strong>Kiểm tra dữ liệu kiểu text</li>
+	<li><strong>TRIM:&nbsp;</strong>X&oacute;a những k&yacute; tự trắng b&ecirc;n trong chuỗi.</li>
+	<li><strong>UPPER:&nbsp;</strong>Chuyển k&yacute; tự thường th&agrave;nh hoa.</li>
+	<li><strong>VALUE:&nbsp;</strong>Chuyển một chuỗi th&agrave;nh số.</li>
+</ol>
+</blockquote>
+
+<p>&nbsp;</p>
+
+<p>Ch&uacute;c bạn th&agrave;nh c&ocirc;ng!</p>
+";s:9:"date_edit";s:19:"2014-02-26 08:43:21";s:8:"date_upd";s:19:"2014-03-03 12:56:37";s:8:"date_add";s:19:"2014-02-25 11:49:44";s:6:"active";N;s:7:"exactly";s:1:"0";s:7:"n_votes";s:1:"2";s:15:"user_votes_down";s:0:"";s:10:"user_votes";s:4:"1,49";s:7:"user_ID";s:1:"1";s:14:"user_full_name";s:17:"Nhà Thông Thái";s:10:"user_score";s:2:"40";s:11:"user_images";s:40:"393410655098269571-avatar31221021gif.jpg";s:16:"user_n_questions";s:1:"0";s:14:"user_n_answers";s:2:"47";s:10:"user_level";s:1:"2";s:7:"comment";a:0:{}}}s:16:"items_same_topic";a:10:{i:0;a:19:{s:2:"ID";s:4:"1402";s:7:"exactly";s:1:"0";s:8:"date_add";s:19:"2015-01-29 11:10:56";s:9:"date_edit";s:19:"2015-01-29 11:10:56";s:6:"active";N;s:9:"n_answers";s:1:"1";s:12:"viewed_times";s:2:"73";s:5:"catid";s:2:"66";s:5:"alias";s:38:"install-va-update-mysql-56-tren-ubuntu";s:7:"tieu_de";s:42:"Install và update mysql 5.6 trên ubuntu?";s:7:"n_votes";s:1:"0";s:6:"closed";s:1:"0";s:7:"user_ID";s:3:"107";s:14:"user_full_name";s:8:"Boypro9x";s:10:"user_score";s:2:"27";s:11:"user_images";s:0:"";s:16:"user_n_questions";s:2:"30";s:14:"user_n_answers";s:2:"23";s:10:"user_level";s:0:"";}i:1;a:19:{s:2:"ID";s:4:"1401";s:7:"exactly";s:1:"0";s:8:"date_add";s:19:"2015-01-17 06:40:22";s:9:"date_edit";s:19:"2015-01-17 06:40:22";s:6:"active";N;s:9:"n_answers";s:1:"1";s:12:"viewed_times";s:3:"156";s:5:"catid";s:2:"66";s:5:"alias";s:27:"cho-em-xin-key-crack-sqlyog";s:7:"tieu_de";s:28:"Cho em xin Key crack sqlYog?";s:7:"n_votes";s:1:"0";s:6:"closed";s:1:"0";s:7:"user_ID";s:3:"157";s:14:"user_full_name";s:9:"Coder Pro";s:10:"user_score";s:1:"6";s:11:"user_images";s:0:"";s:16:"user_n_questions";s:1:"2";s:14:"user_n_answers";s:1:"0";s:10:"user_level";s:0:"";}i:2;a:19:{s:2:"ID";s:4:"1400";s:7:"exactly";s:1:"0";s:8:"date_add";s:19:"2015-01-16 10:41:49";s:9:"date_edit";s:19:"2015-01-16 10:41:49";s:6:"active";N;s:9:"n_answers";s:1:"1";s:12:"viewed_times";s:3:"135";s:5:"catid";s:2:"66";s:5:"alias";s:38:"php-pdoexception-could-not-find-driver";s:7:"tieu_de";s:47:"Php - PDOException “could not find driver”?";s:7:"n_votes";s:1:"0";s:6:"closed";s:1:"0";s:7:"user_ID";s:3:"107";s:14:"user_full_name";s:8:"Boypro9x";s:10:"user_score";s:2:"27";s:11:"user_images";s:0:"";s:16:"user_n_questions";s:2:"30";s:14:"user_n_answers";s:2:"23";s:10:"user_level";s:0:"";}i:3;a:19:{s:2:"ID";s:4:"1399";s:7:"exactly";s:1:"0";s:8:"date_add";s:19:"2015-01-16 10:39:50";s:9:"date_edit";s:19:"2015-01-16 10:39:50";s:6:"active";N;s:9:"n_answers";s:1:"1";s:12:"viewed_times";s:3:"123";s:5:"catid";s:2:"66";s:5:"alias";s:35:"cach-reset-apache-tren-ubuntu-linux";s:7:"tieu_de";s:38:"Cách reset apache trên Ubuntu linux?";s:7:"n_votes";s:1:"0";s:6:"closed";s:1:"0";s:7:"user_ID";s:3:"107";s:14:"user_full_name";s:8:"Boypro9x";s:10:"user_score";s:2:"27";s:11:"user_images";s:0:"";s:16:"user_n_questions";s:2:"30";s:14:"user_n_answers";s:2:"23";s:10:"user_level";s:0:"";}i:4;a:19:{s:2:"ID";s:4:"1398";s:7:"exactly";s:1:"0";s:8:"date_add";s:19:"2015-01-16 09:56:11";s:9:"date_edit";s:19:"2015-01-16 09:56:11";s:6:"active";N;s:9:"n_answers";s:1:"1";s:12:"viewed_times";s:3:"110";s:5:"catid";s:2:"66";s:5:"alias";s:33:"file-phpini-tren-ubuntu-nam-o-dau";s:7:"tieu_de";s:42:"File php.ini trên ubuntu nằm ở đâu?";s:7:"n_votes";s:1:"0";s:6:"closed";s:1:"0";s:7:"user_ID";s:3:"107";s:14:"user_full_name";s:8:"Boypro9x";s:10:"user_score";s:2:"27";s:11:"user_images";s:0:"";s:16:"user_n_questions";s:2:"30";s:14:"user_n_answers";s:2:"23";s:10:"user_level";s:0:"";}i:5;a:19:{s:2:"ID";s:4:"1397";s:7:"exactly";s:1:"0";s:8:"date_add";s:19:"2015-01-16 08:38:22";s:9:"date_edit";s:19:"2015-01-16 08:38:22";s:6:"active";N;s:9:"n_answers";s:1:"1";s:12:"viewed_times";s:3:"106";s:5:"catid";s:2:"66";s:5:"alias";s:38:"cau-hinh-database-path-khi-cai-symfony";s:7:"tieu_de";s:43:"Cấu hình database path khi cài symfony?";s:7:"n_votes";s:1:"0";s:6:"closed";s:1:"0";s:7:"user_ID";s:3:"107";s:14:"user_full_name";s:8:"Boypro9x";s:10:"user_score";s:2:"27";s:11:"user_images";s:0:"";s:16:"user_n_questions";s:2:"30";s:14:"user_n_answers";s:2:"23";s:10:"user_level";s:0:"";}i:6;a:19:{s:2:"ID";s:4:"1396";s:7:"exactly";s:1:"0";s:8:"date_add";s:19:"2015-01-16 08:29:37";s:9:"date_edit";s:19:"2015-01-16 08:29:37";s:6:"active";N;s:9:"n_answers";s:1:"1";s:12:"viewed_times";s:3:"112";s:5:"catid";s:2:"66";s:5:"alias";s:36:"show-database-path-tren-ubuntu-linux";s:7:"tieu_de";s:37:"Show database path tren Ubuntu linux?";s:7:"n_votes";s:1:"0";s:6:"closed";s:1:"0";s:7:"user_ID";s:3:"107";s:14:"user_full_name";s:8:"Boypro9x";s:10:"user_score";s:2:"27";s:11:"user_images";s:0:"";s:16:"user_n_questions";s:2:"30";s:14:"user_n_answers";s:2:"23";s:10:"user_level";s:0:"";}i:7;a:19:{s:2:"ID";s:4:"1395";s:7:"exactly";s:1:"0";s:8:"date_add";s:19:"2015-01-14 10:02:53";s:9:"date_edit";s:19:"2015-01-14 10:02:53";s:6:"active";N;s:9:"n_answers";s:1:"1";s:12:"viewed_times";s:3:"136";s:5:"catid";s:2:"66";s:5:"alias";s:38:"loi-413-request-entity-too-large-nginx";s:7:"tieu_de";s:41:"Lổi 413 request entity too large nginx?";s:7:"n_votes";s:1:"0";s:6:"closed";s:1:"0";s:7:"user_ID";s:3:"107";s:14:"user_full_name";s:8:"Boypro9x";s:10:"user_score";s:2:"27";s:11:"user_images";s:0:"";s:16:"user_n_questions";s:2:"30";s:14:"user_n_answers";s:2:"23";s:10:"user_level";s:0:"";}i:8;a:19:{s:2:"ID";s:4:"1394";s:7:"exactly";s:1:"0";s:8:"date_add";s:19:"2015-01-14 08:01:50";s:9:"date_edit";s:19:"2015-01-14 08:01:50";s:6:"active";N;s:9:"n_answers";s:1:"1";s:12:"viewed_times";s:3:"125";s:5:"catid";s:2:"66";s:5:"alias";s:47:"cach-remote-desktop-tu-ubuntu-den-may-tinh-khac";s:7:"tieu_de";s:57:"Cách remote desktop từ ubuntu đến máy tính khác?";s:7:"n_votes";s:1:"0";s:6:"closed";s:1:"0";s:7:"user_ID";s:3:"107";s:14:"user_full_name";s:8:"Boypro9x";s:10:"user_score";s:2:"27";s:11:"user_images";s:0:"";s:16:"user_n_questions";s:2:"30";s:14:"user_n_answers";s:2:"23";s:10:"user_level";s:0:"";}i:9;a:19:{s:2:"ID";s:4:"1393";s:7:"exactly";s:1:"0";s:8:"date_add";s:19:"2015-01-11 16:37:44";s:9:"date_edit";s:19:"2015-01-11 16:37:44";s:6:"active";N;s:9:"n_answers";s:1:"1";s:12:"viewed_times";s:3:"120";s:5:"catid";s:2:"66";s:5:"alias";s:36:"cac-buoc-su-dung-github-trien-window";s:7:"tieu_de";s:46:"Các bước sử dụng github triên window?";s:7:"n_votes";s:1:"0";s:6:"closed";s:1:"0";s:7:"user_ID";s:3:"119";s:14:"user_full_name";s:7:"Hifi OC";s:10:"user_score";s:2:"10";s:11:"user_images";s:35:"1398826657-15159428431463484004.png";s:16:"user_n_questions";s:1:"4";s:14:"user_n_answers";s:1:"8";s:10:"user_level";s:0:"";}}s:18:"items_same_by_tags";a:4:{i:0;a:19:{s:2:"ID";s:3:"866";s:7:"exactly";s:1:"0";s:8:"date_add";s:19:"2014-05-02 09:56:18";s:9:"date_edit";s:19:"2014-05-02 09:56:18";s:6:"active";N;s:9:"n_answers";s:1:"0";s:12:"viewed_times";s:3:"110";s:5:"catid";s:2:"66";s:5:"alias";s:54:"thao-tac-up-hinh-nhung-khong-cho-phep-download-tren-fb";s:7:"tieu_de";s:61:"Thao tác up hình nhưng không cho phép download trên FB?";s:7:"n_votes";s:1:"0";s:6:"closed";s:1:"0";s:7:"user_ID";s:3:"208";s:14:"user_full_name";s:9:"annie Kim";s:10:"user_score";s:1:"5";s:11:"user_images";s:0:"";s:16:"user_n_questions";s:1:"8";s:14:"user_n_answers";s:1:"0";s:10:"user_level";s:0:"";}i:1;a:19:{s:2:"ID";s:3:"619";s:7:"exactly";s:1:"1";s:8:"date_add";s:19:"2014-03-23 08:59:21";s:9:"date_edit";s:19:"2014-03-23 08:59:21";s:6:"active";N;s:9:"n_answers";s:1:"3";s:12:"viewed_times";s:3:"386";s:5:"catid";s:2:"66";s:5:"alias";N;s:7:"tieu_de";s:45:"Phần mềm làm giảm dung lượng ảnh?";s:7:"n_votes";s:1:"1";s:6:"closed";s:1:"0";s:7:"user_ID";s:3:"163";s:14:"user_full_name";s:9:"Siro Siro";s:10:"user_score";s:1:"6";s:11:"user_images";s:0:"";s:16:"user_n_questions";s:1:"8";s:14:"user_n_answers";s:1:"0";s:10:"user_level";s:0:"";}i:2;a:19:{s:2:"ID";s:4:"1366";s:7:"exactly";s:1:"0";s:8:"date_add";s:19:"2014-07-03 17:11:13";s:9:"date_edit";s:19:"2014-07-03 17:11:13";s:6:"active";N;s:9:"n_answers";s:1:"0";s:12:"viewed_times";s:4:"1183";s:5:"catid";s:2:"66";s:5:"alias";s:36:"cach-gop-2-fanpage-thanh-mot-fanpage";s:7:"tieu_de";s:43:"Cách gộp 2 fanpage thành một fanpage?";s:7:"n_votes";s:1:"0";s:6:"closed";s:1:"1";s:7:"user_ID";s:3:"105";s:14:"user_full_name";s:6:"Le Phu";s:10:"user_score";s:1:"7";s:11:"user_images";s:0:"";s:16:"user_n_questions";s:1:"9";s:14:"user_n_answers";s:1:"2";s:10:"user_level";s:0:"";}i:3;a:19:{s:2:"ID";s:3:"225";s:7:"exactly";s:1:"0";s:8:"date_add";s:19:"2014-03-05 20:14:14";s:9:"date_edit";s:19:"2014-03-05 20:14:14";s:6:"active";N;s:9:"n_answers";s:1:"0";s:12:"viewed_times";s:3:"278";s:5:"catid";s:2:"66";s:5:"alias";N;s:7:"tieu_de";s:62:"Tại sao không Save tài liệu được trong Indesign CS6?";s:7:"n_votes";s:1:"1";s:6:"closed";s:1:"0";s:7:"user_ID";s:3:"110";s:14:"user_full_name";s:7:"an binh";s:10:"user_score";s:2:"10";s:11:"user_images";s:0:"";s:16:"user_n_questions";s:1:"3";s:14:"user_n_answers";s:1:"0";s:10:"user_level";s:0:"";}}}

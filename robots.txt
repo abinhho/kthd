@@ -1,0 +1,9 @@
+User-agent: *
+
+Disallow: /admin/
+
+Disallow: /system/
+Disallow: /sql/
+Disallow: /files/
+Disallow: /assets/
+Disallow: /application/

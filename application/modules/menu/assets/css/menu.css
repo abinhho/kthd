@@ -1,0 +1,48 @@
+.block_menu_ngang{position:absolute;bottom:0px;right:0;}
+.block_menu_ngang .contents{width:auto;}
+.block_menu_ngang ul{margin:0;padding:0;}
+
+.block_menu_ngang .content{position:relative;width:auto;margin:auto;width:1020px;}
+.mod_menu ul{margin:0;padding:0}
+.block_menu_ngang li{float:left;list-style:none;position:relative;padding:0px 0px; border-radius:4px; margin-left:5px;}
+.block_menu_ngang li:last-child{border:none;}
+.block_menu_ngang li:first-child{padding-left:0;}
+.block_menu_ngang li a{color:#222;float:left;font-weight:bold;text-transform:uppercase;font-size:14px;border-right:0px solid #dcdcdc;line-height:1;padding:10px 15px;border-radius:4px;}
+.block_menu_ngang li:hover a{}
+.block_menu_ngang li.active a,.block_menu_ngang li:hover a{background:#f54f02;color:#fff;text-decoration:none;box-shadow: inset 0 0 3px #c4744f}
+.block_menu_ngang li.parent a{background:url('../images/bg/menu_arrow.png') no-repeat right 9px;padding-right:16px;}
+.block_menu_ngang li:hover a,.block_menu_ngang li.parent:hover a{background-position:right -40px;}
+.block_menu_ngang li ul{display:none;position:absolute;top:22px;width:180px;z-index:1001;
+padding:15px 0 5px 0;background:#fff;border-top:2px solid #ccc;border-bottom:1px solid #ccc
+}
+.block_menu_ngang li:hover ul{display:block;}
+.block_menu_ngang li ul ul{position:inherit;top:auto;width:auto;box-shadow:none;padding:0}
+.block_menu_ngang li.parent ul li{display:block;float:none;margin:0;padding:0;background:none;border:none;}
+.block_menu_ngang li.parent ul li.parent a{font-weight:bold;}
+.block_menu_ngang li.parent ul li.parent li a{font-weight:normal;padding-left:25px;}
+
+.block_menu_ngang li.parent ul li a{color:#444 !important;font-weight:normal;background-image:none !important;
+padding:4px 15px;display:block;float:none;font-size:12px;}
+.block_menu_ngang li.parent ul ul li a{color:#444 !important;}
+.block_menu_ngang li.parent ul li a:hover{text-decoration:underline}
+
+.block_menu_doc{background:#fff;border:1px solid #EDEDED;}
+.block_menu_doc .bg_menu_doc{display:block;width:120px;height:60px;background:url('../images/bg/danh_muc_dia_diem.png') no-repeat 10px }
+.block_menu_doc h6{padding:5px 15px;margin:0;}
+.block_menu_doc ul{padding:10px;margin:10px 0 0}
+.block_menu_doc li{display:block;}
+.block_menu_doc li a{font-size:13px;padding:6px 0 5px 20px;display:block;background:url('../images/bg/arrow_icon.png') no-repeat 5px 12px ;border-bottom:1px solid #EDEDED;color:#646464
+}
+
+.block_menu_top{font-size:14px;margin-bottom:10px;}
+.block_menu_top .logo{padding:5px 10px 5px 10px;background: #000;margin-bottom: -1px;}
+.block_menu_top .logo img{width: 227px;}
+.block_menu_top .new_question{float:left;cursor:pointer;}
+.block_menu_top .new_question:hover{background-color:#444;}
+.block_menu_top .line_1{border-bottom:1px solid #ddd;background: #fff; box-shadow: 0 3px 2px -2px rgba(200, 200, 200, 0.3)}
+
+.menu_after_top ul{margin:0;padding:0;}
+.menu_after_top li{float:left;display:block;margin:11px 10px 9px 0;}
+.menu_after_top li.active a{border-color:#777777;font-weight:bold;color:#444;}
+.menu_after_top li:hover a{text-decoration:none;border-color:#ccc;}
+.menu_after_top li a{color:#777;padding:8px 10px;border-bottom:3px solid transparent;font-size:13px;}

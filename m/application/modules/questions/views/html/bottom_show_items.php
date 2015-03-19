@@ -1,0 +1,3 @@
+<strong class="font18 line_h1_6 f_font1 pd_10 block">Bạn chưa tìm thấy câu hỏi?. Hãy thử tìm thêm <a title="Câu hỏi mới" href="<?php echo base_url('questions')?>">câu hỏi mới</a>
+hoặc tìm trong <a href="<?php echo base_url('tags')?>">tag phổ biến</a> hoặc giúp chúng tôi trả lời các câu hỏi <a title="Câu hỏi chưa có trả lời" href="<?php echo base_url('questions/unanswers')?>">chưa trả lời</a> hoặc <a class="button_red" title="Đặt câu hỏi" href="<?php echo base_url('questions/ask') ?>">Đặt câu hỏi</a> nhanh.
+</strong>

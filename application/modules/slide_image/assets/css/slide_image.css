@@ -1,0 +1,4 @@
+.slide_image_full{}
+.slide_image{margin:auto;padding:10px;border:0px solid #dcdcdc;box-shadow:inset  0 0 0px #f2f2f2;text-align:center;display:block;background:url('../images/bg/bg_slide.gif');width:960px;}
+
+.slide_image .nivoSlider{position:relative;border:2px solid #fff;}

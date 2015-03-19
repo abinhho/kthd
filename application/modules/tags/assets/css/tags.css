@@ -1,0 +1,12 @@
+.mod_tags.show_items ul{margin:0 0 20px 0;padding:0}
+.mod_tags.show_items.all .bound_ul{margin-left:-23px;}
+.mod_tags.show_items.all ul{width:310px;float:left;margin-left:23px;min-height:360px;}
+.mod_tags.show_items.all li {display:block;margin:0 5px 10px 0;}
+.mod_tags.show_items li {display:block;float:left;margin:0 2px 10px;font-size:12px;min-width:190px;}
+
+
+div.input_tag{border:1px solid #999;min-height:25px;display:block;}
+div.input_tag input{border:none;margin:3px 0 0 3px;}
+
+.div_checkbox_tags{padding:5px 10px;background:#f5f5f5;margin:10px 0 0 0;}
+.div_checkbox_tags .each{width:215px;float:left;margin:0 0 10px 0;}

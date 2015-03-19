@@ -1,0 +1,20 @@
+._editor{position:relative;}
+._editor ._tool ul{margin:5px 0;padding:0;height:20px;}
+._editor ._tool li{display:block;float:left;width:22px;height:22px;margin-right:5px;background-image:url('../images/_editor.png');background-repeat:none;}
+._editor ._tool li._bold{background-position:0px 0}
+._editor ._tool li._italic{background-position:-18px 0}
+._editor ._tool li._link{background-position:-37px 0}
+._editor ._tool li._blockquote{background-position:-58px 0}
+._editor ._tool li._code{background-position:-77px 0}
+._editor ._tool li._image{background-position:-98px 0}
+._editor ._tool li._ol{background-position:-118px 0}
+._editor ._tool li._ul{background-position:-138px 0}
+._editor ._tool li._heading{background-position:-158px 0}
+._editor ._tool li._undo{background-position:-200px 0}
+._editor ._tool li._redo{background-position:-218px 0}
+._editor ._tool li._hint{background-position:-238px 0;float:right;height:21px;margin-right:0px;background-color:transparent !important}
+._editor ._tool span{margin:0 10px 0 5px;float:left;border-right:1px solid #ccc;width:1px;height:21px;}
+._editor ._tool li:hover{background-color:#dee7f7;border-radius:2px;cursor:pointer;}
+._editor textarea{border:1px solid #999;padding:3px;width:672px;width:-moz-available;resize:none;min-height:120px;}
+._editor ._resize{display:block;height:10px;background:url('../images/resize_1.gif') no-repeat center #f2f2f2;border:1px solid #d4d4d4;border-top:none;margin-top:-2px;cursor:s-resize}
+._editor .dim_resize{background:#fff;position:absolute;top:0;bottom:10px;opacity:0.7}

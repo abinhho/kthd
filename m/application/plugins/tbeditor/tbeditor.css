@@ -1,0 +1,35 @@
+#box_editor {background:#fff;width:auto;margin:0 0 10px 0;font-family:arial;font-size:12px;position:relative}
+#box_editor #editor_design {border:1px solid #999;}
+#box_editor textarea{border:none;padding:3px;}
+#editor_top{margin:3px 0;height:26px;text-align:left;}
+#editor_top input{padding:0px;float:left;margin-right:5px;border-radius:3px;}
+#editor_top input:hover{background:#dff1ff;}
+#editor_top input.active{background:#a3d7ff;}
+#editor_top input.disabled:hover{background:none;}
+#editor_top .show_hide_tool{background:url('../tbeditor/images/show_hide_tool.gif') no-repeat center 3px;float:right;width:10px;height:10px;border:1px outset #dcdcdc;margin:10px 5px;cursor:pointer;}
+#editor_top .show_hide_tool.active{background-position:center -18px;}
+iframe{border:none;background:#ffffff;width:100%;}
+.edt_select{cursor:pointer;font-size:12px;margin:0px 3px;margin-top:2px;float:left;height:22px;padding:auto;}
+.edt_select option{padding:4px;}
+#mode_html{resize:none;display:none;}
+.frame_design,.area_design{float:left;padding:5px 0px;cursor:pointer;margin-right:10px;}
+.frame_design.active,.area_design.active{background:#fff;font-weight:bold;}
+
+#box_editor .dim_resize{background:#f2f2f2;position:absolute;bottom:10px;opacity:0;display:none;}
+#box_editor .resize{background:#eaeaea;border:1px solid #dcdcdc;border-top:none;background:url('../tbeditor/images/resize_1.gif') no-repeat center #f2f2f2;height:10px;margin-top:1px;cursor:s-resize}
+
+#promt_editor_special_char{display:none; z-index:100;position:absolute;background:#fff;border:1px solid #000;width:500px;padding:10px;box-shadow:0 0 5px #444;margin:auto;left:0;right:0;}
+#promt_editor_special_char h6.top{font-size:18px;border-bottom:1px solid #ccc;margin:0 0 10px 0;padding:2px 0 10px 0}
+#promt_editor_special_char h6 .close{float:right;color:#25528f;font-weight:normal;font-size:12px;margin:5px}
+#promt_editor_special_char .left{float:left;width:400px;}
+#promt_editor_special_char .left span{float:left;padding:2px 6px;cursor:pointer}
+#promt_editor_special_char .left span:hover{border-color:#dcdcdc;background:#a3d7ff}
+#promt_editor_special_char .right{background:#eaeaea;width:80px;height:80px;float:right;font-size:30px;padding-top:24px;text-align:center}
+
+
+
+#promt_add_code{display:none; position:absolute; z-index:100;background:#fff;border:1px solid #000;width:600px;padding:10px;box-shadow:0 0 5px #444;margin:auto;left:0;right:0;}
+#promt_add_code h6.top{font-size:18px;border-bottom:1px solid #ccc;margin:0 0 10px 0;padding:2px 0 10px 0}
+#promt_add_code h6 .close{float:right;color:#25528f;font-weight:normal;font-size:12px;margin:5px}
+#promt_add_code textarea{width:-moz-available;padding:5px;min-height:300px}
+#promt_add_code .done{}

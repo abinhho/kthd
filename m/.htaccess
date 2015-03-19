@@ -1,0 +1,28 @@
+<IfModule mod_rewrite.c>
+	#ExpiresActive On
+	#<FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|js|css|swf)$">
+	#ExpiresDefault "access plus 1 months"
+	#</FilesMatch>
+	
+    RewriteEngine On
+    #RewriteBase /ci/
+	
+	RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+	RewriteCond $1 !^(index\.php|images|files|robots\.txt|assets)
+	RewriteRule ^[a-z]+(.*)$ index.php?/$0$1 [L]
+	#RewriteRule ^([0-9]+)\/([0-9]+)-(.*).html$ index.php?module=$1&view=$2 [L,NC]
+	#RewriteRule ^([0-9]+)\/([a-z0-9-]*).html$ index.php?module=$1 [L,NC]
+	
+	RewriteRule ^([0-9]+)/([a-z0-9-]*).html$ frontend/index/$2 [L,NC]
+	RewriteRule ^([0-9]+)/([a-z0-9-]*)/([a-z0-9-]*)-([0-9]+).html$ frontend/index/$0/$2 [L,NC]
+	
+</IfModule>
+
+<IfModule !mod_rewrite.c>
+    # If we don't have mod_rewrite installed, all 404's
+    # can be sent to index.php, and everything works as normal.
+    # Submitted by: ElliotHaughin
+
+    #ErrorDocument 404 /index.php
+</IfModule>
